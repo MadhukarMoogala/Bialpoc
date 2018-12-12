@@ -11,7 +11,14 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.env
 
+#Forge Client Credentials
+
+forge.json
+BIMFiles/
+BIAL_logo.jpg
+GenerateSensorData/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
