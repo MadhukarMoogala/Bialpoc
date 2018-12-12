@@ -1,4 +1,8 @@
 //Autodesk Forge Configuration
+
+
+require('dotenv').config(); 
+
 module.exports={
      // Set environment variables or hard-code here
     credentials:{
