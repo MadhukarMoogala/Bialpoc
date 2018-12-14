@@ -11,7 +11,11 @@ Reads the sensor data from JSON file updated to BIM 360 through a .NET client ap
 
 ## Working GIF
 
+![](https://github.com/MadhukarMoogala/Bialpoc/blob/master/media/BIALPoc.gif)
+
 ## Live 
+
+[LiveDemo](https://fpd-bialpoc.herokuapp.com/)
 
 ## Setup
 In order to use this sample you need Autodesk developer credentials. Visit the [Forge Developer Portal](https://developer.autodesk.com), sign up for an account, then [create an app](https://developer.autodesk.com/myapps/create). Finally take note of the `Client ID` and `Client Secret`.
